@@ -103,7 +103,7 @@ export const Link = styled.a`
     transition: 400ms; -webkit-tap-highlight-color: rgba(0,0,0,0);
     ${props => props.hover !== 'disabled' ? css`
     :hover {background-color : ${props => props.theme.dark ? '#D8FFFA' : '#332D1D'}; 
-        color : ${props => props.theme.dark ? '#0E2623' : '#332D1D'}}
+        color : ${props => props.theme.dark ? '#0E2623' : '#D9CAA9'}}
     ` : 
     css`:hover {background: linear-gradient(225.03deg, #FFA24A -1.7%, #B76720 100%); transition:400ms}`
     }
