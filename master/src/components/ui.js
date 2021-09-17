@@ -53,7 +53,8 @@ export const Legend = styled.div`
     width: 108%; display: flex; justify-content: center; align-items :flex-end ; 
     transform: translate(-30px, -30px);
     @media only screen and (max-width: 850px) {
-        width: 110.75%; 
+    transform: translate(0px, 0px);
+        width: 100%; align-items :flex-start
 }
 `;
 
@@ -61,7 +62,7 @@ export const Pic = styled.div`
     background-image: url(pic.png);
     width: 50% ; height: 220px; background-repeat: no-repeat; background-size: cover;
     @media only screen and (max-width: 850px) {
-        height: 180px;
+        height: 180px; 
 }
 `;
 
@@ -69,7 +70,7 @@ export const Rect = styled.div`
     width: 50%; height: 220px; transition: 500ms;
     background-color: ${props => props.theme.dark ? '#47706B' : '#68604B'}; 
     @media only screen and (max-width: 850px) {
-        height: 155px;
+        height: 130px;
 }
 `;
 
