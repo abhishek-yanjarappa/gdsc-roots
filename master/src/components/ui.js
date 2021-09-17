@@ -2,7 +2,7 @@ import styled, {css} from 'styled-components';
 
 export const Body = styled.div`
     background-color: ${props => props.theme.dark ? '#374745' : '#D9CAA9'};
-    transition: 500ms;
+    transition: 500ms; overflow-x: hidden;
     width : 100vw; height : 100%;
     @media only screen and (max-width: 850px) {
     height: max-content;
