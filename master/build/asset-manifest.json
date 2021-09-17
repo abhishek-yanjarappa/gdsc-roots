@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/gdsc-roots/static/js/main.fd154014.chunk.js",
+    "main.js.map": "/gdsc-roots/static/js/main.fd154014.chunk.js.map",
+    "runtime-main.js": "/gdsc-roots/static/js/runtime-main.346449cd.js",
+    "runtime-main.js.map": "/gdsc-roots/static/js/runtime-main.346449cd.js.map",
+    "static/js/2.f39960d9.chunk.js": "/gdsc-roots/static/js/2.f39960d9.chunk.js",
+    "static/js/2.f39960d9.chunk.js.map": "/gdsc-roots/static/js/2.f39960d9.chunk.js.map",
+    "index.html": "/gdsc-roots/index.html",
+    "static/js/2.f39960d9.chunk.js.LICENSE.txt": "/gdsc-roots/static/js/2.f39960d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.346449cd.js",
+    "static/js/2.f39960d9.chunk.js",
+    "static/js/main.fd154014.chunk.js"
+  ]
+}
