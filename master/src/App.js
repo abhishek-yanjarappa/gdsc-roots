@@ -58,7 +58,7 @@ export default function App() {
                   <GitHubIcon style={{width:'50px', height : '50px'}}/>
                 </Link>
                 <Link hover={'disabled'} href='https://vinimaya.vercel.app/user/105889498257809539120?page=1' target='_blank' rel='noopener noreferrer'>
-                  <img alt='vinimaya' style={{width : '50px', height:'50px'}} src={mode? '/vinimaya.svg' : '/vinimayadark.svg'}/>
+                  <svg alt='vinimaya' style={{width : '50px', height:'50px'}} src={mode? '/vinimaya.svg' : '/vinimayadark.svg'}/>
                 </Link>
               </Set>
               <Set>
